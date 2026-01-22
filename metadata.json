@@ -1,0 +1,7 @@
+{
+  "name": "Chroniques Emploi Automator",
+  "description": "Système universel d'automatisation de chroniques emploi pour radios locales. Collecte, classe et rédige les scripts radio pour n'importe quel territoire.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
